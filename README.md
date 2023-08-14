@@ -1,5 +1,5 @@
-# Binary-Sentiment-Analysis-BERT-for-Sentence-Classification-
-Training a BERT model to identify positive/negative sentiment in Amazon reviews
+# Binary Sentiment Classification Analysis - BERT for Sentence Classification
+Training BERT model to identify positive/negative sentiment in Amazon reviews
 
 ## Potential Uses
 Binary classification of text is extremely powerful and relevant in today's business. One idea I had for binary sentiment classification is to analyze manager reviews of employees in a large company and identifying potential racial or gender bias. Being proactive in identifying potential bias can improve workplace satisfaction, inclusion, retention, and even avoid lawsuits.
