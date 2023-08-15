@@ -7,7 +7,7 @@ Binary classification of text is extremely powerful and relevant in today's busi
 ## BERT model
 BERT, or Bidirectional Encoder Representations from Transformers, is a deep learning model for natural language processing (NLP). It was developed by Google AI in 2018 and has since become one of the most popular NLP models, achieving state-of-the-art results on a variety of tasks, including question answering, natural language inference, and sentiment analysis. BERT is based on the transformer architecture, which is a neural network architecture that is particularly well-suited for NLP tasks. Transformer models are able to learn long-range dependencies between words in a sentence, which is essential for understanding the meaning of text. BERT is pre-trained on a massive dataset of text and code, which allows it to learn general language representations. This pre-training makes BERT very efficient at learning new tasks, as it does not need to be trained from scratch on each new dataset.
 <p align="center">
-  <img src="https://stanford-cs324.github.io/winter2022/lectures/images/bert.png">
+  <img src="https://stanford-cs324.github.io/winter2022/lectures/images/bert.png" width="50%">
 </p>
 
 ## Project Scope
